@@ -1,0 +1,4 @@
+git init - serve para criar um novo repositório Git.
+git add - pode ser usado para adicionar arquivos ao índice.
+git clone - é usado para clonar um repositório.
+git status - exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
